@@ -1,0 +1,56 @@
+{
+    "VCQ": {
+        "precision (%)": 96.3,
+        "recall (%)": 16.5,
+        "f1_score (%)": 28.2,
+        "avg_max_cosine_per_gen": 0.868
+    },
+    "GCQ": {
+        "precision (%)": 62.0,
+        "recall (%)": 46.3,
+        "f1_score (%)": 53.0,
+        "avg_max_cosine_per_gen": 0.761
+    },
+    "Type1_VCQ": {
+        "precision (%)": 93.5,
+        "recall (%)": 16.7,
+        "f1_score (%)": 28.3,
+        "avg_max_cosine_per_gen": 0.861
+    },
+    "Type1_GCQ": {
+        "precision (%)": 58.1,
+        "recall (%)": 36.6,
+        "f1_score (%)": 44.9,
+        "avg_max_cosine_per_gen": 0.7611
+    },
+    "Type2_VCQ": {
+        "precision (%)": 100.0,
+        "recall (%)": 16.7,
+        "f1_score (%)": 28.7,
+        "avg_max_cosine_per_gen": 0.8746
+    },
+    "Type2_GCQ": {
+        "precision (%)": 45.2,
+        "recall (%)": 22.6,
+        "f1_score (%)": 30.1,
+        "avg_max_cosine_per_gen": 0.7139
+    },
+    "Type3_VCQ": {
+        "precision (%)": 97.4,
+        "recall (%)": 15.1,
+        "f1_score (%)": 26.2,
+        "avg_max_cosine_per_gen": 0.8707
+    },
+    "Type3_GCQ": {
+        "precision (%)": 78.9,
+        "recall (%)": 73.7,
+        "f1_score (%)": 76.2,
+        "avg_max_cosine_per_gen": 0.7993
+    },
+    "Type4_VCQ": {
+        "precision (%)": 85.7,
+        "recall (%)": 62.5,
+        "f1_score (%)": 72.3,
+        "avg_max_cosine_per_gen": 0.8544
+    }
+}
