@@ -1,7 +1,8 @@
 # VSPO: Validating Semantic Pitfalls in Ontology
 
 This repository contains the official implementation of our research on **Validating Semantic Pitfalls in Ontology**.
-Out paper accepted in AAAI 2026 for oral presentation.
+
+Our paper accepted in AAAI 2026 for oral presentation.
 
 ## 📁 Directory Structure
 
