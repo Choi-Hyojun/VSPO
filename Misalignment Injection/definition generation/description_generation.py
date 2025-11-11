@@ -15,7 +15,7 @@ def init_template(type, example):
     "body": {"model": "gpt-4.1", 
              "messages": 
                  [{"role": "system", "content": f"""
-                   You are a helpful Ontology engineer. 
+                   You are an Ontology engineer. 
                    Generate a {type} description including information of axioms and current description. 
                    The description should be concise and informative, providing a clear understanding of the {type}'s purpose and characteristics.
                    Don't generate unnecessary text. Just generate {type} description only."""},

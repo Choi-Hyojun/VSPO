@@ -50,7 +50,7 @@ def init_template(axiom, axiom_relation):
                 {
                     "role": "user",
                     "content": f"""
-                    Generate a Competency Question including axioms and current template.
+                    Generate competency questions including axioms and current template.
                     Template: {template}
                     Axiom: {axiom}
                     """
